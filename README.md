@@ -57,9 +57,5 @@ If you want to contribute to this project, feel free to fork the repository, mak
 License
 This project is open-source and available under the MIT License.
 
-css
-Copy code
-
-This `README.md` file includes all necessary sections to explain the project, how to use it, and how to contribute. It should help anyone who wants to understand, use, or improve the BMI Calculator project.
 
 
